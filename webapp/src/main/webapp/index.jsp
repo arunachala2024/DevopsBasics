@@ -4,7 +4,7 @@
   <title>Sample Test Page</title>
   <style>
     body {
-      background-color: rgb(30, 35, 23, 0.801);
+      background-color: rgba(30, 35, 23, 0.801);
     }
   </style>
 </head>
